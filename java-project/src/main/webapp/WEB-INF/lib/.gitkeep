@@ -1,0 +1,4 @@
+# This directory is for runtime dependencies
+# Maven manages dependencies, so JARs should not be committed
+# Keep this file to preserve the directory structure
+
